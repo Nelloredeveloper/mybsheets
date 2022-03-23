@@ -14,7 +14,7 @@
     "crud",
     "mongodb"
   ],
-  "author": "akshay kashyap",
+  "author": "Sreekanth dodla",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
